@@ -6,6 +6,8 @@
 
 <img src="https://i.imgur.com/5tXfoxWl.jpg" alt="" width="800"/>
 
+*Thanks to dumbothedog for the photo.*
+
 ### Partslist
  |Count|Part|
  |-|-|
